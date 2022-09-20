@@ -8209,6 +8209,7 @@
 - [Matteo Bongiovanni](https://github.com/MatBon01)
 - Anirudh N
 - [Shabunken](https://github.com/shabunken)
+-[Vishal Chauhan](https://github.com/vish-han)
 - [Shiva](https://github.com/shivaak)
 - [David Damer](CDavid-Damer)
 - Rajan Khade
